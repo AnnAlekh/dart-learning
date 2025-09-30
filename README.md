@@ -28,3 +28,7 @@
 - **Изучено тем**: 
 - **Решено задач**: 
 - **Мини-проектов**: 
+
+![Dart Basics](https://img.shields.io/badge/Dart-Basics-green)
+![OOP](https://img.shields.io/badge/OOP-In_Progress-yellow)
+![Async](https://img.shields.io/badge/Async-Not_Started-red)
